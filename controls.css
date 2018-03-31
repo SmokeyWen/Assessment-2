@@ -1,0 +1,62 @@
+#input1{
+    width: 50px;
+}
+
+#input2{
+    width: 50px;
+}
+
+#input3{
+    width: 50px;
+}
+
+#input4{
+    width: 50px;
+}
+
+#colorinput{
+    width: 50px;
+}
+
+#number{
+    background-color: black;
+    color: navajowhite;
+}
+
+#random{
+    background-color: hotpink;
+    color: aqua
+}
+
+#plus{
+    width: 20px;
+    color: red;
+    background-color: grey;
+}
+
+
+.newdiv{
+    position: relative;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    margin: 1.5px;
+}
+
+
+.newitems{
+  width:auto;
+  height:auto;
+  position:absolute;
+  left:0;
+  right:0;
+  margin:auto;
+}
+
+
+
+#display, #divrow{
+    width: 100%;
+    height: 100%;
+}
+
